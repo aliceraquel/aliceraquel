@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Eu sou Alice Raquel e estou em transição de carreira
+
+
 <!--
 **aliceraquel/aliceraquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
